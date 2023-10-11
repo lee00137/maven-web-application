@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.111.245.197:9980/mithuntechnologies/repository/icicibank-release/</url>
+	      <name>icicibank Releases Nexus Repository</name>
+	      <url>http://http://18.143.184.176:8081/repository/icicibank.release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.111.245.197:9980/mithuntechnologies/repository/icicibank-snapshot/</url>
+	      <name>icicibank Snapshot Nexus Repository </name>
+	      <url>http://http://18.143.184.176:8081/repository/icicibank.release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
